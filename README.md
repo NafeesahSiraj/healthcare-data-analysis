@@ -101,7 +101,7 @@ Arthritis alone accounts for 3,156 of the 18,437 abnormal results at approximate
 
 This finding has broader implications for specialist staffing needs, diagnostic workload, follow-up coordination, and laboratory resource utilization across the hospital.
 
-![Distribution of Patient Test Results](Distribution of Patient Test Results.jpg)
+![Distribution of Patient Test Results](Distribution-of-Patient-Test-Results.jpg)
 
 ---
 
