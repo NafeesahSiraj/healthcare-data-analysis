@@ -37,7 +37,7 @@ The revenue gap between diabetes and cancer is particularly noteworthy. Cancer r
 
 From an operational perspective, the hospital may benefit from strengthening structured outpatient diabetic follow-up programs aimed at reducing avoidable acute admissions and improving continuity of care.
 
-![Total Billing by Medical Condition](Total Billing Amount by Medical Condition.jpg)
+![Total Billing by Medical Condition](Total-Billing-Amount-by-Medical-Condition.jpg)
 
 ---
 
@@ -68,7 +68,7 @@ Cigna contributed ₦284,334,099, representing approximately 20.2% of total hosp
 
 The relatively balanced contribution across providers is operationally favorable, but continuous monitoring of reimbursement timelines, denial rates, and payer contract performance would support stronger financial governance and reduce exposure to single-payer risk.
 
-![Total Billing by Insurance Provider](Total billing by Insurance Provider.png)
+![Total Billing by Insurance Provider](Total-billing-by-Insurance-Provider.png)
 
 ---
 
@@ -80,7 +80,7 @@ This pattern is operationally important because elective admissions are generall
 
 The findings suggest that expanding elective service capacity — particularly through specialist outpatient referrals and planned procedural pathways — may support both financial performance and operational efficiency without requiring proportional increases in emergency infrastructure.
 
-![Revenue Share by Admission Type](Revenue Share by Admission Type.png)
+![Revenue Share by Admission Type](Revenue-Share-by-Admission-Type.png)
 
 ---
 
@@ -90,7 +90,8 @@ The 45–59 age group recorded the highest admission volume at 12,281 patients. 
 
 This finding supports investment in integrated chronic disease management pathways focused on middle-aged adults, including coordinated multidisciplinary outpatient care that addresses comorbidities simultaneously rather than treating each condition in isolation.
 
-![Hospital Admissions by Age Group](Hospital Admission by Age Group.jpg)
+![Hospital Admissions by Age Group](Hospital-Admission-by-Age-Group.jpg)
+
 ---
 
 ## Insight 7 — High Abnormal Test Rates Suggest a Clinically High-Risk Patient Population
@@ -123,7 +124,7 @@ Lipitor (atorvastatin) was prescribed 11,038 times, making it the most frequentl
 
 Although cardiovascular disease was not listed as a primary diagnosis category, the prescribing pattern suggests that cardiovascular risk management represents an important and currently invisible secondary clinical burden. Additional analysis linking medication utilization to individual diagnosis categories would help clarify the true extent of cardiovascular comorbidity and may reveal that the hospital is managing a significantly higher cardiac risk population than the primary diagnosis data alone suggests.
 
-![Most Prescribed Medication](Most Prescribed Medication.png)
+![Most Prescribed Medication](Most-Prescribed-Medication.png)
 
 ---
 
