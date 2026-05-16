@@ -15,7 +15,7 @@ This analysis evaluates admission patterns, billing trends, medication utilizati
 | Total Patient Records | 54,966 |
 | Total Hospital Revenue | ₦1,404,068,339.23 |
 | Most Common Condition | Arthritis (9,218 patients) |
-| Highest Revenue Condition | Diabetes (₦236,487,000) |
+| Highest Revenue Condition | Diabetes (₦236,486,971.10) |
 | Top Insurance Provider | Cigna (₦284,334,099.18) |
 | Highest Revenue Admission Type | Elective (₦473,133,056.18) |
 | Busiest Age Group | 45–59 years (12,281 patients) |
