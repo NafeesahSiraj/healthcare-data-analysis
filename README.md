@@ -37,6 +37,8 @@ The revenue gap between diabetes and cancer is particularly noteworthy. Cancer r
 
 From an operational perspective, the hospital may benefit from strengthening structured outpatient diabetic follow-up programs aimed at reducing avoidable acute admissions and improving continuity of care.
 
+![Revenue by Diabetes](Chart1_Total Billing Amount by Medical Condition.jpg)
+
 ---
 
 ## Insight 2 — Prolonged Asthma Admissions May Indicate Operational or Clinical Inefficiencies
@@ -66,6 +68,8 @@ Cigna contributed ₦284,334,099, representing approximately 20.2% of total hosp
 
 The relatively balanced contribution across providers is operationally favorable, but continuous monitoring of reimbursement timelines, denial rates, and payer contract performance would support stronger financial governance and reduce exposure to single-payer risk.
 
+![Payer Revenue Distribution](Chart2_Total billing by Insurance Provider.png)
+
 ---
 
 ## Insight 5 — Elective Admissions Are Financially Efficient Revenue Drivers
@@ -76,6 +80,8 @@ This pattern is operationally important because elective admissions are generall
 
 The findings suggest that expanding elective service capacity — particularly through specialist outpatient referrals and planned procedural pathways — may support both financial performance and operational efficiency without requiring proportional increases in emergency infrastructure.
 
+![Revenue by Elective Admission](Chart3_Revenue Share by Admission Type.png)
+
 ---
 
 ## Insight 6 — Adults Aged 45–59 Represent the Hospital's Core Chronic Disease Population
@@ -83,6 +89,8 @@ The findings suggest that expanding elective service capacity — particularly t
 The 45–59 age group recorded the highest admission volume at 12,281 patients. This age range commonly corresponds with increased prevalence of diabetes, hypertension, obesity, arthritis, and cardiovascular risk factors. The concentration of admissions within this demographic suggests that the hospital's operational burden is strongly driven by chronic multi-condition disease management rather than isolated acute illness.
 
 This finding supports investment in integrated chronic disease management pathways focused on middle-aged adults, including coordinated multidisciplinary outpatient care that addresses comorbidities simultaneously rather than treating each condition in isolation.
+
+![Highest Admission by Age Group](Chart4_Hospital Admission by Age Group.jpg)
 
 ---
 
@@ -93,6 +101,9 @@ Abnormal laboratory results at 18,437 slightly exceeded normal results at 18,331
 Arthritis alone accounts for 3,156 of the 18,437 abnormal results at approximately 17.1% of all abnormal outcomes from a condition representing only 16.8% of patients. This slight overrepresentation suggests arthritis patients generate disproportionately abnormal clinical findings relative to their share of the patient population, further reinforcing the need for earlier intervention and more structured outpatient monitoring for this condition.
 
 This finding has broader implications for specialist staffing needs, diagnostic workload, follow-up coordination, and laboratory resource utilization across the hospital.
+
+![Abnormal Test Rates](Chart5_Distribution of Patient Test Results.jpg)
+
 
 ---
 
@@ -105,6 +116,7 @@ It is important to note that female emergency admissions represent a structurall
 
 With that structural consideration in mind, the pattern may still reflect underlying issues such as delayed healthcare access, lower preventive care utilization, or sex-specific disease burden differences within the catchment population. Because the dataset lacks socioeconomic, obstetric, and diagnostic detail, causal interpretation remains limited. However, the finding justifies further investigation into barriers affecting timely healthcare utilization among female patients, and supports the development of targeted community outreach programs covering both women's preventive health and maternal and gynaecological emergency preparedness.
 
+
 ---
 
 ## Insight 9 — Lipitor Utilization Suggests a Significant Underlying Cardiovascular Risk Burden
@@ -112,6 +124,8 @@ With that structural consideration in mind, the pattern may still reflect underl
 Lipitor (atorvastatin) was prescribed 11,038 times, making it the most frequently prescribed medication in the dataset by a meaningful margin over the second most prescribed medication Ibuprofen at 11,023 prescriptions. Since atorvastatin is commonly used for cholesterol management and cardiovascular risk reduction, its high utilization may indicate substantial underlying cardiovascular risk across the patient population, particularly among patients with diabetes, hypertension, and obesity, all of which are strongly represented in this dataset.
 
 Although cardiovascular disease was not listed as a primary diagnosis category, the prescribing pattern suggests that cardiovascular risk management represents an important and currently invisible secondary clinical burden. Additional analysis linking medication utilization to individual diagnosis categories would help clarify the true extent of cardiovascular comorbidity and may reveal that the hospital is managing a significantly higher cardiac risk population than the primary diagnosis data alone suggests.
+
+![Most Prescribed Medication](Chart6_Most Prescribed Medication.png)
 
 ---
 
