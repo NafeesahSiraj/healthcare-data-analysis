@@ -84,7 +84,25 @@ The findings suggest that expanding elective service capacity — particularly t
 
 ---
 
-## Insight 6 — Adults Aged 45–59 Represent the Hospital's Core Chronic Disease Population
+## Insight 6 — Monthly Revenue Has Been Stable But May 2024 Signals a Critical Disruption
+IOTB TECH Hospital maintained a remarkably consistent monthly revenue band of approximately ₦21,000,000 to ₦26,000,000 across the entire period from October 2019 through early 2024. This consistency across nearly five years reflects a stable patient admission volume and a reliable payer mix — a sign of operational maturity and financial predictability that most hospitals strive for.
+Three moderate dips are visible within this stable band, in late 2019, mid 2020, and mid 2022. The 2020 dip is particularly noteworthy as it coincides with the global COVID-19 pandemic period, during which hospital revenues worldwide were disrupted by reduced elective admissions, patient avoidance of healthcare facilities, and resource reallocation toward pandemic response. The fact that IOTB TECH recovered quickly from this dip and returned to its normal revenue band within months suggests strong operational resilience.
+However May 2024 represents a dramatically different situation. Revenue collapsed to approximately ₦6,000,000, a fall of nearly 75% below the hospital's established monthly baseline. This is not a normal fluctuation. A drop of this magnitude within a single month has no precedent in the preceding five years of data and demands urgent investigation by hospital management.
+Possible explanations include incomplete data capture for May 2024, meaning the dataset may not contain all admissions and billing records for that month, which would make the drop a data quality issue rather than a true revenue collapse. Alternatively, if the data is complete, the drop may reflect a genuine operational crisis such as a sudden reduction in admissions, a major payer reimbursement failure, a facility disruption, or an external event affecting patient access. A Medical Director and CFO should treat this figure as a red flag requiring immediate root cause analysis before any strategic decisions are made based on 2024 financial projections.
+
+![Monthly Revenue Trend](Monthly-Revenue-Trend.png)
+
+---
+
+## Insight 7 — Five Years of Flat Revenue Signals Real Financial Decline
+One of the most strategically significant findings hidden in the monthly revenue trend is not a single month's performance but the overall trajectory across the entire dataset period. From late 2019 through 2023, IOTB TECH Hospital's monthly revenue remained essentially flat, consistently oscillating between ₦21,000,000 and ₦26,000,000 without any meaningful upward growth trend.
+On the surface this may appear to represent stability. In reality, flat nominal revenue over a five year period that included significant inflation, particularly in Nigeria where inflation has risen substantially since 2019, means the hospital's real purchasing power has declined considerably. The same ₦23,000,000 that bought medical supplies, paid staff, and covered operational costs in 2019 buys meaningfully less of all those things in 2023. The hospital is effectively running harder just to stay in the same place.
+For a growing institution serving over 54,000 patients across multiple chronic disease categories, stagnant revenue is a warning sign. It may indicate that billing rates have not been updated to reflect rising operational costs, that insurance reimbursement rates have not been renegotiated in several years, or that patient volume growth has plateaued. Hospital management should conduct a comprehensive revenue cycle review, examining billing rates, insurance contract terms, and service pricing, to identify where revenue growth opportunities exist and implement a structured plan to achieve meaningful year-on-year revenue increases going forward.
+
+---
+
+
+## Insight 8 — Adults Aged 45–59 Represent the Hospital's Core Chronic Disease Population
 
 The 45–59 age group recorded the highest admission volume at 12,281 patients. This age range commonly corresponds with increased prevalence of diabetes, hypertension, obesity, arthritis, and cardiovascular risk factors. The concentration of admissions within this demographic suggests that the hospital's operational burden is strongly driven by chronic multi-condition disease management rather than isolated acute illness.
 
@@ -94,7 +112,7 @@ This finding supports investment in integrated chronic disease management pathwa
 
 ---
 
-## Insight 7 — High Abnormal Test Rates Suggest a Clinically High-Risk Patient Population
+## Insight 9 — High Abnormal Test Rates Suggest a Clinically High-Risk Patient Population
 
 Abnormal laboratory results at 18,437 slightly exceeded normal results at 18,331 within the dataset, meaning more patients presented with clinically concerning test outcomes than normal ones. This is an operationally significant finding that suggests a large proportion of patients may be presenting with active or uncontrolled disease processes requiring ongoing clinical management.
 
@@ -106,7 +124,7 @@ This finding has broader implications for specialist staffing needs, diagnostic 
 
 ---
 
-## Insight 8 — Female Emergency Admissions May Reflect Delayed Access to Preventive Care
+## Insight 10 — Female Emergency Admissions May Reflect Delayed Access to Preventive Care
 
 Female patients recorded 9,166 emergency admissions compared with 8,936 among males. While the numerical difference is modest, emergency admissions are typically associated with higher clinical acuity and greater resource utilization than elective or urgent admissions.
 
@@ -118,7 +136,7 @@ With that structural consideration in mind, the pattern may still reflect underl
 
 ---
 
-## Insight 9 — Lipitor Utilization Suggests a Significant Underlying Cardiovascular Risk Burden
+## Insight 11 — Lipitor Utilization Suggests a Significant Underlying Cardiovascular Risk Burden
 
 Lipitor (atorvastatin) was prescribed 11,038 times, making it the most frequently prescribed medication in the dataset by a meaningful margin over the second most prescribed medication Ibuprofen at 11,023 prescriptions. Since atorvastatin is commonly used for cholesterol management and cardiovascular risk reduction, its high utilization may indicate substantial underlying cardiovascular risk across the patient population, particularly among patients with diabetes, hypertension, and obesity, all of which are strongly represented in this dataset.
 
@@ -127,6 +145,13 @@ Although cardiovascular disease was not listed as a primary diagnosis category, 
 ![Most Prescribed Medication](Most-Prescribed-Medication.jpg)
 
 ---
+
+## Insight 12 — Ibuprofen Edges Lipitor in Total Revenue Despite Lower Prescription Volume
+Lipitor leads all medications in prescription volume at 11,038, with Ibuprofen ranking second. Yet despite being prescribed less frequently, Ibuprofen generates approximately ₦2,621,583 more in total billing than Lipitor, making it the highest revenue-generating medication in the dataset by a narrow but meaningful margin.
+The fact that a less prescribed medication outbills the most prescribed one, even modestly, reveals an important difference in the cost profile of each treatment episode. Lipitor as a cholesterol management medication is typically straightforward to administer, a daily oral tablet requiring minimal additional monitoring or intervention per prescription cycle. Ibuprofen in a hospital inpatient setting however is more likely to be used at higher doses, over longer treatment durations, and in the context of inflammatory conditions such as arthritis which frequently require additional supportive care, monitoring, and specialist input. These factors collectively drive a higher billing amount per episode despite lower overall prescription frequency.
+While the revenue gap of approximately ₦2,621,583 is not dramatic, the principle it reveals is significant. Prescription volume alone is not a reliable indicator of financial contribution. 
+![Billing by Medication](Billing-by-Medication.png)
+
 
 ## Recommendations Summary
 
@@ -141,7 +166,7 @@ Although cardiovascular disease was not listed as a primary diagnosis category, 
 9. Explore preventive care utilization patterns among female patients and implement community health outreach programs to reduce emergency admission rates in this group.
 10. Conduct diagnosis-medication linkage analysis to quantify the true cardiovascular comorbidity burden across the patient population and determine whether a dedicated cardiovascular risk management program is warranted.
 11. Include formal data quality validation procedures in future analyses given the unusually balanced disease distribution observed across all six condition categories.
-
+12. Conduct a comprehensive revenue cycle review examining billing rates, insurance contract terms, and service pricing. Meaningful year-on-year revenue growth targets should be established to ensure the hospital's financial performance keeps pace with inflation and rising operational costs
 ---
 
 ## Limitations of the Analysis
